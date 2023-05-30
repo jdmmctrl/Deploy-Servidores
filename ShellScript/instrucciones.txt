@@ -1,0 +1,6 @@
+# Permisos
+
+chmod 700 nombre.archivo
+
+# Ejecutar
+./nombre.archivo

@@ -1,0 +1,4 @@
+crontab -e
+
+
+* * * * * python3 /home/ctrl/CDF/main.py
